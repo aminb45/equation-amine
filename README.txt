@@ -12,7 +12,6 @@ L'utilisateur saisit les coefficients `a`, `b` et `c`. Le programme calcule le d
 
 ## 🛠️ Technologies utilisées
 
-- HTML5
 - JavaScript
 - Navigateur web (Firefox, Chrome, Edge)
 
