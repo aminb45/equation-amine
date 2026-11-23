@@ -1,0 +1,12 @@
+Debut:
+     saisir a,b,c 
+    Calculer D = b**2-4ac
+    si  D > 0 alors
+         x1 =(-b - Racine(delta)) / (2*a)
+         x2 =(-b + Racine(delta)) / (2*a)
+    sinon D < 0 alors
+        afficher " le resultat cest pas real "
+    sinon D = 0 alors
+        x =-b / (2*a)
+fin si 
+afficher resultat
