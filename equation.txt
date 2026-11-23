@@ -4,9 +4,10 @@ Debut:
     si  D > 0 alors
          x1 =(-b - Racine(delta)) / (2*a)
          x2 =(-b + Racine(delta)) / (2*a)
+         afficher resultat
     sinon D < 0 alors
         afficher " le resultat cest pas real "
     sinon D = 0 alors
         x =-b / (2*a)
+        afficher resultat
 fin si 
-afficher resultat
