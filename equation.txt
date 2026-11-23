@@ -1,6 +1,13 @@
+a,b,c d (variable)
+x1 , x2 (real)
+r (string)
 Debut:
      saisir a,b,c 
-    Calculer D = b**2-4ac
+      Si a = 0 Alors
+        Afficher "Ce n'est pas une équation du second degré"
+    Sinon
+        D ← b² - 4*a*c
+
     si  D > 0 alors
          x1 =(-b - Racine(delta)) / (2*a)
          x2 =(-b + Racine(delta)) / (2*a)
@@ -11,3 +18,4 @@ Debut:
         x =-b / (2*a)
         afficher resultat
 fin si 
+fin
