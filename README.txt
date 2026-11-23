@@ -89,23 +89,6 @@ x1 = 0.5
 x2 = 3
 ```
 
-## 🎯 Objectifs pédagogiques
-
-Ce projet permet de pratiquer :
-
-- La déclaration de variables avec `let`.
-- La saisie de données avec `prompt()`.
-- La conversion des valeurs avec `Number()`.
-- Les conditions `if`, `else if` et `else`.
-- Les opérateurs mathématiques et `Math.sqrt()`.
-- L'affichage des résultats avec `alert()`.
-
-## 📌 Améliorations possibles
-
-- Vérifier les saisies vides et les valeurs non numériques.
-- Ajouter une interface avec des champs de saisie HTML.
-- Afficher les résultats directement sur la page.
-- Gérer les solutions complexes lorsque Δ est négatif.
 
 ## 📄 Licence
 
